@@ -1,0 +1,19 @@
+{
+  "name": "fakery",
+  "version": "1.0.0",
+  "description": "Fake Data Provider for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fake",
+    "data",
+    "generator"
+  ],
+  "author": "zwm",
+  "license": "ISC",
+  "devDependencies": {
+    "should": "^4.6.3"
+  }
+}
